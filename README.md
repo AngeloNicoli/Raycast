@@ -56,7 +56,12 @@ This LICENSE AGREEMENT is between the Python Software Foundation ("PSF"), and
 8. By copying, installing or otherwise using Python 3.11.3, Licensee agrees
    to be bound by the terms and conditions of this License Agreement.
    
-   Copyright (c) 2005-2022, NumPy Developers.
+mission.
+
+
+
+NUMPY --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+Copyright (c) 2005-2022, NumPy Developers.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -75,9 +80,6 @@ met:
        contributors may be used to endorse or promote products derived
        from this software without specific prior written permission.
 
-
-
-NUMPY --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
 "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
 LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
